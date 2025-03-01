@@ -1,2 +1,2 @@
 # RTO-Management-System
-RTO Management System Description
+It's a project on RTO Management System written in java .
